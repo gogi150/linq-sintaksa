@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\Linq metoda sintakse\Linq metoda sintakse\bin\Debug\Linq metoda sintakse.exe.config
+C:\Users\Učenik\source\repos\Linq metoda sintakse\Linq metoda sintakse\bin\Debug\Linq metoda sintakse.exe
+C:\Users\Učenik\source\repos\Linq metoda sintakse\Linq metoda sintakse\bin\Debug\Linq metoda sintakse.pdb
+C:\Users\Učenik\source\repos\Linq metoda sintakse\Linq metoda sintakse\obj\Debug\Linq metoda sintakse.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\Linq metoda sintakse\Linq metoda sintakse\obj\Debug\Linq metoda sintakse.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\Linq metoda sintakse\Linq metoda sintakse\obj\Debug\Linq metoda sintakse.exe
+C:\Users\Učenik\source\repos\Linq metoda sintakse\Linq metoda sintakse\obj\Debug\Linq metoda sintakse.pdb
